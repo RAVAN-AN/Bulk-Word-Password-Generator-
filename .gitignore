@@ -1,0 +1,52 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+tmp_*
+temp_*
+
+# Log Files
+*.log
+logs/
+
+# Node.js (if added in future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package Files
+*.zip
+*.rar
+*.tar.gz
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Test Files (temporary)
+tmp_rovodev_*
+
+# User-specific logo and favicon (users will add their own)
+# Uncomment if you want to ignore user customizations
+# logo.jpg
+# favicon.png
+
+# Documentation drafts
+*.draft.md
