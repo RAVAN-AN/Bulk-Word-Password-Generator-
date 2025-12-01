@@ -1,7 +1,5 @@
 # Bulk Word Password Generator
 
-![Logo](logo.jpg)
-
 A powerful, client-side password generator that creates secure passwords using word combinations with customizable options.
 
 ## 🚀 Features
