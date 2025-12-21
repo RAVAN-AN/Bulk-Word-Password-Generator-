@@ -24,6 +24,15 @@ A powerful, client-side password generator that creates secure passwords using w
   - Unique words per password
   - Bulk generation (up to thousands of passwords)
 
+## 💾 Saved Configuration
+
+- Auto-saves your settings as you change them (words per password, digits, separator, digit placement, output format, and textarea word list).
+- Persists across sessions in all major browsers when not using Private/Incognito windows.
+- Uses redundant storage (localStorage + IndexedDB) for improved reliability across browser settings.
+- Manual controls: “Save configuration” and “Clear saved”.
+- Loaded folder word pool is cached in IndexedDB and automatically rehydrated on next open.
+- Note: Private/Incognito modes or browser settings that clear site data on exit will prevent persistence.
+
 ## 🎯 Use Cases
 
 - **System Administrators**: Bulk user account creation
