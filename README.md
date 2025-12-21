@@ -51,7 +51,7 @@ A powerful, client-side password generator that creates secure passwords using w
 ### Option 2: Clone Repository
 ```bash
 git clone https://github.com/RAVAN-AN/KeyGenesis-Bulk-Word-Password-Generator.git
-cd Bulk-Word-Password-Generator-
+cd KeyGenesis-Bulk-Word-Password-Generator
 ```
 
 Open `password-generator.html` in your browser.
