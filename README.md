@@ -50,7 +50,7 @@ A powerful, client-side password generator that creates secure passwords using w
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/RAVAN-AN/Bulk-Word-Password-Generator-.git
+git clone https://github.com/RAVAN-AN/KeyGenesis-Bulk-Word-Password-Generator.git
 cd Bulk-Word-Password-Generator-
 ```
 
@@ -110,7 +110,7 @@ See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/RAVAN-AN/Bulk-Word-Password-Generator-/issues)
+- **Issues**: [GitHub Issues](https://github.com/RAVAN-AN/KeyGenesis-Bulk-Word-Password-Generator/issues)
 - **Documentation**: This README and inline help text
 - **Developer**: ALOK (Vibe Coded and Designed)
 
